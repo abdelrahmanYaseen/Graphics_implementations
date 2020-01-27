@@ -1,5 +1,5 @@
 # Graphics_implementations
 
-AS1 : Raytracer implementation 
-AS2 : Rasterization
-AS3 : OpenGL
+AS1 : Raytracer implementation <br />
+AS2 : Rasterization<br />
+AS3 : OpenGL<br />
